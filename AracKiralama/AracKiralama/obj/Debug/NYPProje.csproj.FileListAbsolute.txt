@@ -1,0 +1,42 @@
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\NYPProje.exe.config
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\NYPProje.exe
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\NYPProje.pdb
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\EntityFramework.dll
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\EntityFramework.xml
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.Form1.resources
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.exe
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.pdb
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\MetroFramework.Design.dll
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\MetroFramework.dll
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.AdminIslemleri.resources
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.AnaSayfa.resources
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.ArabaKiralama.resources
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.PersonelEkleme.resources
+C:\Users\Muhammed\Desktop\Nesneye Yönelik Analiz\NYPProje\NYPProje\obj\Debug\NYPProje.ArabaEkleme.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\NYPProje.exe.config
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.exe
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.pdb
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.csprojResolveAssemblyReference.cache
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.AdminIslemleri.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.AnaSayfa.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.ArabaEkleme.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.ArabaKiralama.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.Form1.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.PersonelEkleme.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.Properties.Resources.resources
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\obj\Debug\NYPProje.csproj.GenerateResource.Cache
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\NYPProje.exe
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\NYPProje.pdb
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\EntityFramework.dll
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\MetroFramework.Design.dll
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\MetroFramework.dll
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\EntityFramework.xml
+C:\Users\Muhammed\Desktop\NYPProje\NYPProje\bin\Debug\EntityFramework.SqlServer.xml
